@@ -174,7 +174,7 @@ def show_menu():
     menu = input("Pilih menu > ")
 
     os.system("cls")
-
+<!-------main menu-------!>
     if menu == "1":
         Tampil()
     elif menu == "2":
